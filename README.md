@@ -1,6 +1,8 @@
 # Simple_Classification_Model
 
 We will be using the titanic dataset and it is gotten from …
+
+
 the dataset contains various details about the passengers on the titanic.
 
 
