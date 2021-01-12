@@ -1,6 +1,6 @@
 # Simple_Classification_Model
 
-We will be using the titanic dataset and it is gotten from …
+We will be using the titanic dataset and it is gotten from <a href=https://www.kaggle.com/hesh97/titanicdataset-traincsv target=_blank>here</a>
 
 
 the dataset contains various details about the passengers on the titanic.
